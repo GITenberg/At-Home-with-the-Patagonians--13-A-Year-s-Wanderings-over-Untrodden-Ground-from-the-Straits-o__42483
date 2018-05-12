@@ -1,0 +1,33 @@
+_repo: At-Home-with-the-Patagonians--13-A-Year-s-Wanderings-over-Untrodden-Ground-from-the-Straits-o__42483
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42483-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Musters, George C.
+    aliases:
+    - Musters, George Chatworth
+    - Musters, George Chaworth
+    birthdate: 1841
+    deathdate: 1879
+    gutenberg_agent_id: '41710'
+    url: http://www.gutenberg.org/2009/agents/41710
+    wikipedia: https://en.wikipedia.org/wiki/George_Chaworth_Musters
+description: ''
+gutenberg_issued: '2013-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42483'
+  lccn: 04011439
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Patagonia (Argentina and Chile) -- Description and travel'
+- !lcc 'F2801'
+- !lcsh 'Tzoneca language -- Glossaries, vocabularies, etc.'
+title: "At Home with the Patagonians\r\nA Year's Wanderings over Untrodden Ground\
+  \ from the Straits of Magellan to the Rio Negro"
+url: http://www.gutenberg.org/ebooks/42483
